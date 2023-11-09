@@ -14,7 +14,6 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -33,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/rdpinkst/tip-calculator-app-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -51,7 +50,7 @@ The structure of this app was the first thing that needed to be done, coding up 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Building this project I saw how numbers act in javascript.  Not getting the number you think, but that many numbers after the decimal place.  To correct this, when I changed the DOM I converted the number to a string with two decimal places.
 
 To see how you can add code snippets, see below:
 
